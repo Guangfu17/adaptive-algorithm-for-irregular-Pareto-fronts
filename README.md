@@ -1,5 +1,5 @@
 # adaptive-algorithm-for-irregular-Pareto-fronts
-A Novel Archive Maintenance for Adapting Weight Vectors in Decomposition   
+A Novel Archive Maintenance for Adapting Weight Vectors in Decomposition-   
 based Multi-objective Evolutionary Algorithms, IEEE CEC 2021.
 
 AMAWV.m is the algorithm. CDTLZ2 is an example of problem.  
